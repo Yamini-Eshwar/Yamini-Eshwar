@@ -1,4 +1,4 @@
-![logo](https://github.com/Yamini-Eshwar/Yamini-Eshwar/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner(4).png)
+![logo](https://github.com/Yamini-Eshwar/Yamini-Eshwar/blob/main/Background_Cover.png)
 <h1 align="center">Hi 👋, I'm G.Yamini Krishna</h1>
 <h3 align="center">Data Scientist from India | Solving real-world problems</h3>
 
