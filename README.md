@@ -6,7 +6,7 @@
 
 ## Hey, I'm Yamini
 
-**AI Engineer** at **Aigentics Inc** — I build real-time voice AI agents and avatar systems that talk to people.
+**AI Engineer** at **Splan Labs - Aigentics Inc** — I build real-time voice AI agents and avatar systems that talk to people.
 
 I work at the intersection of **conversational AI**, **real-time audio/video**, and **production infrastructure**. My day-to-day involves wiring together LLMs, speech engines, and WebRTC to create AI agents that hold natural voice conversations — with lip-synced avatars, form-filling capabilities, and multi-agent orchestration.
 
@@ -24,6 +24,15 @@ https://github.com/user-attachments/assets/df2b564c-db96-48b0-b2d7-59a34bb46a91
   <a href="https://github.com/Yamini-Eshwar/realtime-ai-avatar-agent">
     <img src="https://img.shields.io/badge/View_Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>
+</p>
+
+---
+<p align="center">
+  <img 
+    alt="skills-orbit" 
+    src="https://github.com/user-attachments/assets/dfaefee1-d404-4ef8-a910-33474b7ea626"
+    width="100%"
+  />
 </p>
 
 ---
@@ -73,14 +82,6 @@ https://github.com/user-attachments/assets/df2b564c-db96-48b0-b2d7-59a34bb46a91
 | [kafka-order-tracker](https://github.com/Yamini-Eshwar/kafka-order-tracker) | Real-time Kafka producer/consumer pipeline | Python, Kafka, Docker |
 
 ---
-<p align="center">
-  <img 
-    alt="skills-orbit" 
-    src="https://github.com/user-attachments/assets/dfaefee1-d404-4ef8-a910-33474b7ea626"
-    width="100%"
-  />
-</p>
-
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamini-guttikonda)
