@@ -73,13 +73,6 @@ https://github.com/user-attachments/assets/df2b564c-db96-48b0-b2d7-59a34bb46a91
 | [kafka-order-tracker](https://github.com/Yamini-Eshwar/kafka-order-tracker) | Real-time Kafka producer/consumer pipeline | Python, Kafka, Docker |
 
 ---
-<p align="center">
-  <img 
-    alt="skills-orbit" 
-    src="https://github.com/user-attachments/assets/ecc4a70f-f8c7-4eac-b6b7-787f17ee5fab"
-    width="100%"
-  />
-</p>
 
 ### Get in touch
 
